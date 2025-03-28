@@ -308,12 +308,20 @@
 				"D:/Game Projects/WindFall/Content/AI/AI_BB.uasset",
 				"D:/Game Projects/WindFall/Content/__ExternalActors__/WindFall/4/F8/58N65T0UO39MRNZ870B6PR.uasset",
 				"D:/Game Projects/WindFall/Content/__ExternalActors__/WindFall/3/HC/DH4YD8R6XUH4Z2CI22Y2DZ.uasset",
-				"D:/Game Projects/WindFall/Content/__ExternalActors__/WindFall/9/X0/X3LRGZ3SSJ74ZWCT35CVMW.uasset",
 				"D:/Game Projects/WindFall/Content/__ExternalActors__/WindFall/8/Y9/PMPXUU3RVXUZOITL86ZFVY.uasset",
 				"D:/Game Projects/WindFall/Content/AI/Tasks/wander.uasset",
-				"D:/Game Projects/WindFall/Content/__ExternalActors__/WindFall/E/0V/8UX53IUP9XDUPD0BUA7S41.uasset",
 				"D:/Game Projects/WindFall/Content/__ExternalActors__/WindFall/1/83/ENR1OHTB99LRGFNNW2H0T8.uasset",
-				"D:/Game Projects/WindFall/Content/AI/AIproj_BP.uasset"
+				"D:/Game Projects/WindFall/Content/AI/AIproj_BP.uasset",
+				"D:/Game Projects/WindFall/Content/AI/Tasks/Focus.uasset",
+				"D:/Game Projects/WindFall/Content/AI/Tasks/movetolocation.uasset",
+				"D:/Game Projects/WindFall/Content/AI/Tasks/AIshoot.uasset",
+				"D:/Game Projects/WindFall/Content/AI/Tasks/StopShooting.uasset",
+				"D:/Game Projects/WindFall/Content/__ExternalActors__/WindFall/A/E2/BY26O7PUJ5D3O446TSVELH.uasset",
+				"D:/Game Projects/WindFall/Content/__ExternalActors__/WindFall/B/OE/HX8GKU1WP9M0N7BZAFP1YD.uasset",
+				"D:/Game Projects/WindFall/Content/__ExternalActors__/WindFall/0/BN/TM9A4G1AQ785OVKL1BV53S.uasset",
+				"D:/Game Projects/WindFall/Content/__ExternalActors__/WindFall/0/HT/JACX5B3W5IXGLGLY6NDBPS.uasset",
+				"D:/Game Projects/WindFall/Content/__ExternalActors__/WindFall/9/X0/X3LRGZ3SSJ74ZWCT35CVMW.uasset",
+				"D:/Game Projects/WindFall/Content/__ExternalActors__/WindFall/E/0V/8UX53IUP9XDUPD0BUA7S41.uasset"
 			]
 		}
 	]
